@@ -2126,7 +2126,7 @@ try {
     app.use('*', (req, res) => {
         res.header("Content-Type", 'application/json');
         api_obj = {
-            IGSTALK: '/igstalk?username=hanif_az.sq.61',
+            IGSTALK: '/igstalk?username=nfz.01',
             Youtube_Download_MP3: "/ytmp3?url=https://www.youtube.com/watch?v=kXtaWkP08U4",
             Youtube_Download_MP4: "/ytdlmp4?resolution=360&url=https://www.youtube.com/watch?v=kXtaWkP08U4",
             Youtube_Search: "/ytsearch?q=numb",
